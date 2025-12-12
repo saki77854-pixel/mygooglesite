@@ -1,47 +1,5 @@
 # mygooglesite
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<style>
-body {
-  margin: 0;
-  padding: 0;
-  font-family: Arial;
-}
 
-/* Tabs */
-.tabs {
-  display: flex;
-  flex-wrap: wrap;
-  margin-bottom: 10px;
-  border-bottom: 2px solid #ccc;
-}
-
-.tab {
-  padding: 10px 16px;
-  cursor: pointer;
-  background: #eee;
-  margin-right: 5px;
-  border-radius: 6px 6px 0 0;
-}
-
-input { display:none; }
-
-.content {
-  padding: 15px;
-  border: 1px solid #ccc;
-}
-
-#A:checked ~ .content .A,
-#B:checked ~ .content .B {
-  display: block;
-}
-
-.A, .B {
-  display: none;
-}
-</style>
 </head>
 <body>
 
