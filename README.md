@@ -6,8 +6,6 @@
 <label class="tab" for="A">A</label>
 <label class="tab" for="B">B</label>
 
-<input type="radio" id="A" name="x" checked>
-<input type="radio" id="B" name="x">
 
 <div class="content">
   <div class="A"><h3>A內容</h3><p>內容很多也沒關係。</p></div>
